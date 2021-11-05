@@ -5,8 +5,12 @@ This project is about Object Counting on a Convey Belt. When giving the video in
 > ***You can simply go through the noteboook while learning. Anyone have an interest can follow each section easily. There are theoritical explanation unser each section.***
 
 
-Here is the snapshot of the output video...
-![Snapshot](https://github.com/AvishkaSandeepa/EN2550-2021-Assignment-05/blob/master/created_video/Capture.PNG)
+
+
+*Here is the snapshot of the output video...*
+
+
+<img src="https://github.com/AvishkaSandeepa/EN2550-2021-Assignment-05/blob/master/created_video/Capture.PNG" alt="drawing" style="width:500px;"/>
 
 
 
