@@ -12,7 +12,7 @@ This project is about Object Counting on a Convey Belt. When giving the video in
 
 <img src="https://github.com/AvishkaSandeepa/EN2550-2021-Assignment-05/blob/master/created_video/Capture.PNG" alt="drawing" style="width:500px;"/>
 
-
+--------------------------------------------
 
 ### Steps
 
